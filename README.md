@@ -1,5 +1,7 @@
 # Futtatás
-A projekt szerkesztése és futtatása a Godot 4.4.x verziójával lehetséges: https://godotengine.org/
+Az exportált projekt Windows és Linux binárisai a 'releases'-ben találhatóak. (https://github.com/DinkeyKing/Szakdolgozat/releases/tag/RELEASE)
+
+A projekt szerkesztése a Godot 4.4.x verziójával lehetséges: https://godotengine.org/
 
 # Projektfájlok 
 A kinematikai test szkriptje: physics/kinematic_character_3d.gd  
