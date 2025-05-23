@@ -49,6 +49,14 @@ theme = SubResource("Theme_30cl7")
 theme_override_constants/h_separation = 40
 columns = 2
 
+[node name="Label17" type="Label" parent="VFlowContainer"]
+layout_mode = 2
+text = "Look around:"
+
+[node name="Label18" type="Label" parent="VFlowContainer"]
+layout_mode = 2
+text = "Mouse"
+
 [node name="Label" type="Label" parent="VFlowContainer"]
 layout_mode = 2
 text = "Move:"
@@ -64,6 +72,14 @@ text = "Jump:"
 [node name="Label4" type="Label" parent="VFlowContainer"]
 layout_mode = 2
 text = "Space"
+
+[node name="Label15" type="Label" parent="VFlowContainer"]
+layout_mode = 2
+text = "Pause game:"
+
+[node name="Label16" type="Label" parent="VFlowContainer"]
+layout_mode = 2
+text = "Escape"
 
 [node name="Label11" type="Label" parent="VFlowContainer"]
 layout_mode = 2
